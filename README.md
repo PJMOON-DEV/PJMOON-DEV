@@ -22,8 +22,8 @@ Sou um entusiasta da tecnologia, atualmente focado em aprender e construir proje
 ## 📊 Minhas Estatísticas  
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&langs_count=6&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PJMOON-DEV&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PJMOON-DEV&layout=compact&langs_count=6&theme=radical"/>
 </p>
 
 ---
@@ -31,7 +31,7 @@ Sou um entusiasta da tecnologia, atualmente focado em aprender e construir proje
 ## 🌎 Onde me encontrar?  
 
 📧 **E-mail:** [pabloz20155@gmail.com](mailto:pabloz20155@gmail.com)  
-🔗 **LinkedIn:** [Seu Perfil](#) *(https://www.linkedin.com/in/pablogouvea/)*  
+🔗 **LinkedIn:** [Pablo Gouvêa](#) *(https://www.linkedin.com/in/pablogouvea/)*  
 
 💡 Sempre aberto a oportunidades e conexões na área de tecnologia!  
 
