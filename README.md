@@ -10,7 +10,8 @@
 
 ## 🚀 Sobre mim  
 
-Sou um entusiasta da tecnologia, atualmente focado em aprender e construir projetos com **HTML, CSS, JavaScript e Java**. Busco oportunidades para aplicar meus conhecimentos e evoluir como desenvolvedor.  
+Sou um entusiasta da tecnologia, atualmente focado em aprender e construir projetos com **HTML, CSS, JavaScript e Java**. 
+Busco oportunidades para aplicar meus conhecimentos e evoluir como desenvolvedor.  
 
 🎯 **O que estou estudando:**  
 ✅ **Frontend:** HTML, CSS, JavaScript  
