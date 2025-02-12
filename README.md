@@ -31,7 +31,7 @@ Sou um entusiasta da tecnologia, atualmente focado em aprender e construir proje
 ## 🌎 Onde me encontrar?  
 
 📧 **E-mail:** [pabloz20155@gmail.com](mailto:pabloz20155@gmail.com)  
-🔗 **LinkedIn:** [Seu Perfil](#) *(adicione o link aqui)*  
+🔗 **LinkedIn:** [Seu Perfil](#) *(https://www.linkedin.com/in/pablogouvea/)*  
 
 💡 Sempre aberto a oportunidades e conexões na área de tecnologia!  
 
