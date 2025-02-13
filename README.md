@@ -32,7 +32,7 @@ Busco oportunidades para aplicar meus conhecimentos e evoluir como desenvolvedor
 ## 🌎 Onde me encontrar?  
 
 📧 **E-mail:** [pabloz20155@gmail.com](mailto:pabloz20155@gmail.com)  
-🔗 **LinkedIn:** [Pablo Gouvêa](#)*(https://www.linkedin.com/in/pablogouvea/)*  
+🔗 **LinkedIn:** [Pablo Gouvêa](https://www.linkedin.com/in/pablogouvea/)
 
 💡 Sempre aberto a oportunidades e conexões na área de tecnologia!  
 
